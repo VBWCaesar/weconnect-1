@@ -1,3 +1,3 @@
-username = 'your_email'
-password = 'your_password'
-spin = '0000' # 4-digit string
+username = 'organisation@vbw-bochum.de'
+password = 'maKflCfySonTZBOspIwb'
+spin = '1916' # 4-digit string
